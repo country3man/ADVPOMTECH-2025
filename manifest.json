@@ -1,0 +1,21 @@
+{
+  "short_name": "POM TECH",
+  "name": "POM TECH - Complete Interactive Application",
+  "icons": [
+    {
+      "src": "assets/images/avatar.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/avatar.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#007bff"
+}
